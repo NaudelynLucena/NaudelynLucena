@@ -16,7 +16,7 @@
 
 ## 🖌 Design:
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg)
 
 <!---
 NaudelynLucena/NaudelynLucena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
