@@ -12,7 +12,3 @@
 -✨ I am normally self-taught but the help from FactoríaF5 is great for me
 
 -💪 I like to think that you can always be better
-
-🖌 ##Design:
-
-![Screenshot from a comment on a GitHub issue showing an image, added in Markdown, logo canva.]https://static-cse.canva.com/blob/760895/1_XP2KwBKj7H5BJvWb_cvBIg.7333dff9.avif
