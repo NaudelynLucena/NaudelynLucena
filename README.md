@@ -12,9 +12,14 @@
 
 -✨ I am normally self-taught but the help from FactoríaF5 is great for me
 
--💪 I like to think that you can always be better
+## Stacks
+![JAVA](https://github.com/user-attachments/assets/62280edc-3608-4d8e-a13d-61c76f71b348) ![JavaScript](https://skillicons.dev/icons?i=all)
 
-## 🖌 Design:
+## Connect with me
+
+![Linkedin](https://blog.waalaxy.com/wp-content/uploads/2021/01/3-1.png.webp)
+
+## 🖌 Tools:
 
 ![Canva](https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg)
 
