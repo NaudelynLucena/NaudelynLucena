@@ -4,7 +4,7 @@
 
 ![Screenshot from a comment on a GitHub issue showing an image, added in Markdown, of a kitten smiling and typing on a laptop.](https://i.pinimg.com/originals/1b/e0/05/1be0050b393f6c4f9fe7eccfd8856a40.gif)
 
-## About me 🦋
+## <img alt="hi-star" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> About me 🦋
 
 -🔭 Exploring new horizons I discovered programming and I love it
 
@@ -13,7 +13,9 @@
 -✨ I am normally self-taught but the help from FactoríaF5 is great for me
 
 ## Stacks
-![JAVA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlg0pzJwOVlglWUpu2cq8ezPC03608d8qV_g&s) ![JavaScript](https://avatars.githubusercontent.com/u/1778284?s=200&v=4)
+
+![JavaScript](https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145) ![HTMl](https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465) <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" />
 
 ## Connect with me
 
@@ -21,7 +23,8 @@
 
 ## 🖌 Tools:
 
-![Canva](https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg)
+![Canva](https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg) <img src="https://skillicons.dev/icons?i=figma,postman,vscode,git" />
+  </a>
 
 <!---
 NaudelynLucena/NaudelynLucena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
